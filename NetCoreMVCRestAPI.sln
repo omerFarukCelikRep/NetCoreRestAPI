@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMVCRestAPI", "NetCoreMVCRestAPI\NetCoreMVCRestAPI.csproj", "{0A34038B-C63D-46D9-9163-3EE9C17A4984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A34038B-C63D-46D9-9163-3EE9C17A4984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A34038B-C63D-46D9-9163-3EE9C17A4984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A34038B-C63D-46D9-9163-3EE9C17A4984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A34038B-C63D-46D9-9163-3EE9C17A4984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CA094E-3FD0-466B-BE1E-6EE371AF639C}
+	EndGlobalSection
+EndGlobal
